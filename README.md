@@ -3,8 +3,7 @@ A Kahoot bot spam program using the kahoot.js library
 
 ### Usage:
 
-Open a terminal into the project folder. Do the following commands or simply execute the .bats in order`after executing the first 2 theres no need for using them again 
-,just use the 3rd`:   
+Open a terminal into the project folder. Do the following commands or simply execute the .bats in order:   
 `npm install`    
 `npm i kahoot.js-updated`   
 `node index.js`
