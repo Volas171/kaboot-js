@@ -9,6 +9,8 @@ Open a terminal into the project folder. Do the following commands or simply exe
 `node index.js`
 The Terminal will then promt you to enter the Kahoot game number. Hit enter and wait for the spookiness to happen! (since it's october)     
 
+Note:`run the first two bats to install , unless you move everything from the original instalation folder and delete the folder it created use them again if no then just execute the 3rd one and you are ready to go!`
+
 
 Lmao ya im kinda required to say that you shouldn't use this for malicious intent so ya, don't.
 made by VolasYouKnow#8027 dm me if it has fails or if you want a new feature or maybe another hack (yes im bored and i have a lot of time)
