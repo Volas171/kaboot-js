@@ -18,4 +18,5 @@ and no this aint a virus you can check the code by yourself or the [virustotal s
 
 
 Disclamer: Lmao ya im kinda required to say that you shouldn't use this for malicious intent so ya, don't.
-Kahoot™, this was made by educational purposes i dont make responsable of how people will use this however i warned above to not use it for malicious stuff.
+
+Kahoot™, this was made for educational purposes i dont make responsable of how people will use this on your platform however i warned above to not use it for malicious stuff.
