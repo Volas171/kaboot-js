@@ -14,3 +14,5 @@ Note:`run the first two bats to install , unless you move everything from the or
 
 Lmao ya im kinda required to say that you shouldn't use this for malicious intent so ya, don't.
 made by VolasYouKnow#8027 dm me if it has fails or if you want a new feature or maybe another hack (yes im bored and i have a lot of time)
+
+and no this aint a virus you can check the code by yourself or the [virustotal scan](https://www.virustotal.com/gui/file/4436743de9d7360b59b11c4e58f33e4c74f9be19b1c4f4ea3a7235c87c05d751/detection)
