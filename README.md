@@ -7,7 +7,7 @@ Open a terminal into the project folder. Do the following commands or simply exe
 `npm install`    
 `npm i kahoot.js-updated`   
 `node index.js`
-The Terminal will then promt you to enter the Kahoot game number. Hit enter and wait for the spookiness to happen! (since it's october)     
+The Terminal will then promt you to enter the Kahoot game number. Hit enter and wait for the spookiness to happen!  
 
 Note:`run the first two bats to install , unless you move everything from the original instalation folder and delete the folder it created use them again if no then just execute the 3rd one and you are ready to go!`
 
